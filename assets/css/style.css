@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Lobster&display=swap');
+
+body {
+    font-family: "Cabin", sans-serif;
+}
+
+.ricomida {
+    font-family: 'Lobster';    
+}
+
+.recetas-img {
+    width: 480px;
+}
+
+.outline {
+    border-color: #dddddd;
+}
+
+.pizza-h1 {
+    width: 80%;
+    color: #373A3C;
+}
+
+.pizza-h4 {
+    font-size: 20px;
+    color: #373A3C;
+}
+
+hr {
+    border-color: #373A3C;
+    width: 100%;
+}
+
+#preparacion{
+    font-size: 20px;
+}
+
+.receta-rel{
+    text-align: left;
+}
+
+.card {
+    height: 100%;
+}
+
+.subscribe{
+ background-color: #DC3545;
+ height:534px;
+}
+
+.subscribe-boton {
+    width: 235px;
+}
+
+.ingredientes1{
+font-size: 20px;
+}
+
+.contenido{
+    font-size:19px;
+}
+
+p{
+    margin-top: 0;
+margin-bottom: 1rem;
+}
+
+.img-hover:hover{
+filter: opacity(.5);
+}
+
